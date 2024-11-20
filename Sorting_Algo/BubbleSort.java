@@ -17,7 +17,8 @@ public class BubbleSort {
     int temp = 0;
     int[] a = { 56, 12, 36, 44 };
     for (int i = 0; i < a.length; i++) {
-      for (int j = 0; j < a.length - 1 - i; i++) {
+      for (int j = 0; j < a.length - 1 - i; i++)// -i will not take last element in each preceding round
+      {
         int flag = 0;
         if (a[j] > a[j + 1]) {
           temp = a[j];
