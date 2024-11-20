@@ -1,3 +1,4 @@
+package Basic_Pro;
 //153 = 1^3 + 5^3 + 3^3;
 public class armstrong {
     public static void main(String[] args) {

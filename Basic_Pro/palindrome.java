@@ -1,3 +1,4 @@
+package Basic_Pro;
 public class palindrome {
   public static void main(String[] args) {
     int no = 101;

@@ -1,3 +1,4 @@
+package Basic_Pro;
 public class NumberPattern14 {
   public static void main(String[] args) {
     int count = 0;
