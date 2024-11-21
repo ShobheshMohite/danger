@@ -1,7 +1,10 @@
 package OOP.in.sm.bank;
 
 public class BankAccount {
+
+  @SuppressWarnings("unused")
   private String accoundNumber;
+  @SuppressWarnings("unused")
   private String accountHolderName;
   private double balance;
 
