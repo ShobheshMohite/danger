@@ -1,4 +1,4 @@
-package OOP.To_String;
+package OOP.String;
 
 public class Car {
   int noOfWheels;
